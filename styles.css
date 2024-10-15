@@ -1,0 +1,54 @@
+body{
+    margin:auto;
+    background-color: grey;
+}
+.papa{
+    margin:auto;
+    width:400px;
+    height:630px;
+    background-color: white;
+}
+.cabecera{
+    background-color: white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom:solid;
+    border-color: black;
+    height: 40px;
+}
+.marcauser{
+    display: flex;
+    align-items: center;
+}
+.marcauser img{
+    padding-right: 10px;
+}
+.textomarca{
+    font-size: small;
+    font-family:Helvetica;
+    padding-top: 15px;
+}
+.textomarca p{
+    padding: 0px;
+    margin-top:2px;
+}
+.puntos{
+    padding: 5px;
+}
+.pie{
+    margin-bottom: 100px;
+    border-top:solid;
+    border-color: black;
+}
+.iconos{
+    display:flex;
+    justify-content:space-between;
+    margin: 10px;
+}
+.textopie{
+    margin: 10px;
+    font-family:Helvetica;
+    text-align: justify;
+}
